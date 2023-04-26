@@ -1,0 +1,28 @@
+body{
+    background: rgb(246, 199, 246);
+    margin: 0;
+}
+
+h1{
+    text-align: center;
+    font-size: 2em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-end: 0px;
+    margin-inline-start: 0px;
+
+} 
+
+.tile {
+    height: 200px;
+    cursor: pointer;
+    background-color: rgb(124, 164, 222);
+} 
+
+ #game div {
+    border: 5px solid lightslategray;
+    width: 15%;
+    height: 200px;
+    margin: 10px;
+    display: inline-block;
+ } 
